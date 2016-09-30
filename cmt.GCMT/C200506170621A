@@ -1,0 +1,13 @@
+ PDE 2005  6 17  6 21 42.30  40.7700 -126.5700  10.0 6.2 6.5 OFF COAST OF NORTHERN CALIFORNIA
+event name:     C200506170621A
+time shift:      3.0000
+half duration:   5.1000
+latitude:       40.6400
+longitude:    -126.7600
+depth:          16.2000
+Mrr:      -1.100000e+24
+Mtt:      -7.720000e+25
+Mpp:       7.830000e+25
+Mrt:       8.500000e+24
+Mrp:       1.450000e+25
+Mtp:      -8.180000e+25

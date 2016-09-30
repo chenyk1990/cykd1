@@ -1,0 +1,13 @@
+ PDE 2005  1 28 15 46 45.30  -1.0900  -81.1600  10.0 5.4 5.5 OFF COAST OF ECUADOR
+event name:     C200501281546A
+time shift:      3.8000
+half duration:   2.2000
+latitude:       -1.1000
+longitude:     -81.2000
+depth:          12.0000
+Mrr:       5.560000e+24
+Mtt:       1.400000e+23
+Mpp:      -5.700000e+24
+Mrt:       2.600000e+23
+Mrp:      -7.400000e+24
+Mtp:      -4.400000e+23

@@ -1,0 +1,13 @@
+ PDE 2000  3  4 14  9 50.50 -34.3200  179.1300  33.0 5.2 5.6 SOUTH OF KERMADEC ISLANDS
+event name:     B030400B
+time shift:      2.9000
+half duration:   2.0000
+latitude:      -34.1400
+longitude:     178.9900
+depth:          15.0000
+Mrr:      -1.282000e+24
+Mtt:      -4.994000e+24
+Mpp:       6.277000e+24
+Mrt:       9.180000e+23
+Mrp:      -6.030000e+23
+Mtp:       1.061000e+24

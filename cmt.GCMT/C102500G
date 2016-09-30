@@ -1,0 +1,13 @@
+ PDE 2000 10 25 19  0 17.50 -34.6800 -109.4600  10.0 5.6 5.7 SOUTHERN EAST PACIFIC RISE
+event name:     C102500G
+time shift:      6.8000
+half duration:   3.2000
+latitude:      -34.7200
+longitude:    -109.6300
+depth:          15.0000
+Mrr:       1.330000e+24
+Mtt:      -3.610000e+24
+Mpp:       2.280000e+24
+Mrt:       3.990000e+24
+Mrp:      -3.080000e+24
+Mtp:      -1.481000e+25

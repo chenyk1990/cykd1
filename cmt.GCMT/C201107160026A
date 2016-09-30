@@ -1,0 +1,13 @@
+ PDE 2011  7 16  0 26 12.60 -33.8200  -71.8300  20.0 5.8 6.1 OFF COAST OF CENTRAL CHILE
+event name:     C201107160026A
+time shift:      4.4000
+half duration:   2.3000
+latitude:      -33.9600
+longitude:     -72.1900
+depth:          23.9000
+Mrr:       6.720000e+24
+Mtt:       2.300000e+23
+Mpp:      -6.940000e+24
+Mrt:       1.240000e+24
+Mrp:      -7.990000e+24
+Mtp:      -4.800000e+23

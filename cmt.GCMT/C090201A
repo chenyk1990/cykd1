@@ -1,0 +1,13 @@
+ PDE 2001  9  2  2 25 54.10   0.8900   82.5000  10.0 5.6 5.8 NORTH INDIAN OCEAN
+event name:     C090201A
+time shift:      3.2000
+half duration:   2.5000
+latitude:        1.1100
+longitude:      82.5100
+depth:          15.0000
+Mrr:       2.160000e+24
+Mtt:      -6.040000e+24
+Mpp:       3.880000e+24
+Mrt:      -3.600000e+23
+Mrp:       6.060000e+24
+Mtp:      -1.134000e+25

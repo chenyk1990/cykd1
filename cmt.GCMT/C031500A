@@ -1,0 +1,13 @@
+ PDE 2000  3 15  6 35  5.20 -44.4000 -117.4300  10.0 5.9 5.5 SOUTH PACIFIC OCEAN
+event name:     C031500A
+time shift:      7.8000
+half duration:   2.2000
+latitude:      -44.5700
+longitude:    -117.4600
+depth:          15.0000
+Mrr:      -6.955000e+24
+Mtt:       8.948000e+24
+Mpp:      -1.993000e+24
+Mrt:       2.068000e+24
+Mrp:       2.057000e+24
+Mtp:      -3.890000e+24

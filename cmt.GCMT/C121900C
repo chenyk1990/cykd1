@@ -1,0 +1,13 @@
+ PDE 2000 12 19 13 11 47.40  11.7700  144.7600  33.0 6.3 5.8 SOUTH OF MARIANA ISLANDS
+event name:     C121900C
+time shift:      3.8000
+half duration:   3.2000
+latitude:       11.7000
+longitude:     145.1800
+depth:          15.0000
+Mrr:      -1.508000e+25
+Mtt:       1.568000e+25
+Mpp:      -6.000000e+23
+Mrt:       6.370000e+24
+Mrp:       4.340000e+24
+Mtp:       9.670000e+24

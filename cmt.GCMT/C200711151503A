@@ -1,0 +1,13 @@
+ PDE 2007 11 15 15  3  8.80 -22.8700  -70.4100  27.0 5.8 6.1 OFF COAST OF NORTHERN CHILE
+event name:     C200711151503A
+time shift:      5.3000
+half duration:   3.6000
+latitude:      -22.9900
+longitude:     -71.0100
+depth:          35.8000
+Mrr:       2.360000e+25
+Mtt:       4.150000e+24
+Mpp:      -2.770000e+25
+Mrt:       7.110000e+24
+Mrp:      -2.910000e+25
+Mtp:       2.570000e+24

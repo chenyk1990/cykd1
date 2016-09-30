@@ -1,0 +1,13 @@
+ PDE 1997  7  6  9 54  0.80 -30.0600  -71.8700  19.0 5.8 6.5 OFF COAST OF CENTRAL CHILE
+event name:     C070697A
+time shift:      8.7000
+half duration:   5.0000
+latitude:      -30.2200
+longitude:     -72.2100
+depth:          15.0000
+Mrr:       1.315000e+26
+Mtt:      -8.800000e+24
+Mpp:      -1.227000e+26
+Mrt:       6.500000e+24
+Mrp:      -1.448000e+26
+Mtp:       1.700000e+24

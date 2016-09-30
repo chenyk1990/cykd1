@@ -1,0 +1,13 @@
+ PDE 1999  8 22  9 35 39.50 -40.5100  -74.7600  33.0 6.2 5.8 OFF COAST OF SOUTHERN CHILE
+event name:     C082299A
+time shift:      3.3000
+half duration:   4.0000
+latitude:      -40.8800
+longitude:     -75.4400
+depth:          15.0000
+Mrr:      -4.099000e+25
+Mtt:      -1.790000e+24
+Mpp:       4.279000e+25
+Mrt:       2.060000e+24
+Mrp:      -1.490000e+24
+Mtp:       1.601000e+25

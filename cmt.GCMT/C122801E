@@ -1,0 +1,13 @@
+ PDE 2001 12 28 22  9 28.00  -8.3600  -74.2200 160.6 5.5 0.0 PERU-BRAZIL BORDER REGION
+event name:     C122801E
+time shift:      6.0000
+half duration:   2.4000
+latitude:       -8.1500
+longitude:     -74.2300
+depth:         161.5000
+Mrr:       1.380000e+24
+Mtt:      -1.084000e+24
+Mpp:      -2.970000e+23
+Mrt:       2.784000e+24
+Mrp:      -9.404000e+24
+Mtp:       2.040000e+23

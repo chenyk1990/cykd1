@@ -1,0 +1,13 @@
+ PDE 2001 10 12  5  2 34.00  52.6300 -132.2000  20.0 5.6 5.8 QUEEN CHARLOTTE ISLANDS REGION
+event name:     C101201C
+time shift:      6.4000
+half duration:   2.5000
+latitude:       52.6400
+longitude:    -132.1800
+depth:          15.0000
+Mrr:       1.052000e+25
+Mtt:      -6.820000e+24
+Mpp:      -3.700000e+24
+Mrt:       7.210000e+24
+Mrp:      -4.840000e+24
+Mtp:       5.390000e+24

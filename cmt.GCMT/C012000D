@@ -1,0 +1,13 @@
+ PDE 2000  1 20  9 41 47.30  43.6500 -127.2600  10.0 5.7 5.6 OFF COAST OF OREGON
+event name:     C012000D
+time shift:      6.4000
+half duration:   2.6000
+latitude:       43.5800
+longitude:    -127.7700
+depth:          15.0000
+Mrr:      -3.900000e+23
+Mtt:      -1.135000e+25
+Mpp:       1.174000e+25
+Mrt:       1.530000e+24
+Mrp:      -1.140000e+24
+Mtp:      -9.050000e+24

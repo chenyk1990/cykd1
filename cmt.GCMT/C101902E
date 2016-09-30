@@ -1,0 +1,13 @@
+ PDE 2002 10 19 12  9  5.40  44.3000  149.9600  33.0 5.4 6.2 EAST OF KURIL ISLANDS
+event name:     C101902E
+time shift:      9.1000
+half duration:   3.2000
+latitude:       43.9500
+longitude:     150.1600
+depth:          15.0000
+Mrr:       1.727000e+25
+Mtt:      -9.910000e+24
+Mpp:      -7.350000e+24
+Mrt:       2.106000e+25
+Mrp:       1.565000e+25
+Mtp:      -7.790000e+24

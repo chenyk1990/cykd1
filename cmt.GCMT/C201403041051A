@@ -1,0 +1,13 @@
+ PDE 2014  3  4 10 51 15.60 -33.6000  -71.9600  20.0 0.0 5.7 OFF COAST OF CENTRAL CHILE
+event name:     C201403041051A
+time shift:      4.1000
+half duration:   1.9000
+latitude:      -33.6300
+longitude:     -72.1600
+depth:          23.4000
+Mrr:       4.080000e+24
+Mtt:       1.220000e+23
+Mpp:      -4.200000e+24
+Mrt:       1.860000e+23
+Mrp:      -4.400000e+24
+Mtp:      -5.630000e+23

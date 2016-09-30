@@ -1,0 +1,13 @@
+ PDE 2000  9  1 11 56 51.80   1.4400   96.5900  33.0 5.6 6.0 OFF W COAST OF NORTHERN SUMATRA
+event name:     C090100C
+time shift:      2.5000
+half duration:   2.4000
+latitude:        1.2200
+longitude:      96.2800
+depth:          20.0000
+Mrr:       9.783000e+24
+Mtt:      -5.363000e+24
+Mpp:      -4.420000e+24
+Mrt:       2.610000e+24
+Mrp:      -3.475000e+24
+Mtp:       4.790000e+24

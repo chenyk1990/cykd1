@@ -1,0 +1,13 @@
+ PDE 2001 10  9 23 53 37.00  47.7600  155.1000  33.0 6.5 5.7 EAST OF KURIL ISLANDS
+event name:     C100901I
+time shift:      2.5000
+half duration:   2.2000
+latitude:       47.7900
+longitude:     155.2400
+depth:          22.0000
+Mrr:       5.450000e+23
+Mtt:       5.890000e+24
+Mpp:      -6.435000e+24
+Mrt:       1.623000e+24
+Mrp:       8.120000e+23
+Mtp:       5.312000e+24

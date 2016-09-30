@@ -1,0 +1,13 @@
+ PDE 1995  8  2  0 14  9.60 -23.1500  -70.5800  33.0 5.4 5.5 OFF COAST OF NORTHERN CHILE
+event name:     B080295A
+time shift:      4.8000
+half duration:   2.3000
+latitude:      -23.0500
+longitude:     -71.2000
+depth:          15.0000
+Mrr:       5.473000e+24
+Mtt:       8.100000e+23
+Mpp:      -6.283000e+24
+Mrt:       2.257000e+24
+Mrp:      -9.110000e+24
+Mtp:      -1.110000e+23

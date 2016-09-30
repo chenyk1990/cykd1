@@ -1,0 +1,13 @@
+ PDE 2014  6 19 19 54  4.90 -19.8400  -70.8700  10.6 0.0 5.8 OFF COAST OF NORTHERN CHILE
+event name:     C201406191954A
+time shift:      6.7000
+half duration:   1.9000
+latitude:      -19.8000
+longitude:     -71.1500
+depth:          23.0000
+Mrr:       4.000000e+24
+Mtt:       4.430000e+23
+Mpp:      -4.450000e+24
+Mrt:       8.360000e+23
+Mrp:      -4.430000e+24
+Mtp:       8.920000e+23

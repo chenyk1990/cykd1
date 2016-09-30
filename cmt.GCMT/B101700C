@@ -1,0 +1,13 @@
+ PDE 2000 10 17 20  0 36.80  15.5200  -92.0700 180.5 5.5 0.0 MEXICO-GUATEMALA BORDER REGION
+event name:     B101700C
+time shift:      5.2000
+half duration:   2.0000
+latitude:       15.6800
+longitude:     -92.4800
+depth:         180.3000
+Mrr:       1.778000e+24
+Mtt:      -3.434000e+24
+Mpp:       1.656000e+24
+Mrt:       2.127000e+24
+Mrp:      -4.847000e+24
+Mtp:       9.200000e+22

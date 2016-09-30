@@ -1,0 +1,13 @@
+ PDE 2001 11 13  9 47 36.50  22.3700 -106.9700  33.0 5.5 5.8 OFF COAST OF CENTRAL MEXICO
+event name:     C111301B
+time shift:      1.1000
+half duration:   2.5000
+latitude:       22.4400
+longitude:    -107.0600
+depth:          15.0000
+Mrr:      -4.900000e+23
+Mtt:      -1.274000e+25
+Mpp:       1.323000e+25
+Mrt:       4.020000e+24
+Mrp:      -7.000000e+22
+Mtp:       2.410000e+24

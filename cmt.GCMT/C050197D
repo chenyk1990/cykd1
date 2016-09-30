@@ -1,0 +1,13 @@
+ PDE 1997  5  1 11 37 36.10  18.9900 -107.3500  33.0 6.1 6.8 OFF COAST OF JALISCO, MEXICO
+event name:     C050197D
+time shift:      4.5000
+half duration:   7.0000
+latitude:       18.9600
+longitude:    -107.1500
+depth:          15.0000
+Mrr:      -1.660000e+25
+Mtt:      -1.580000e+26
+Mpp:       1.745000e+26
+Mrt:      -1.570000e+25
+Mrp:       7.640000e+25
+Mtp:      -2.087000e+26

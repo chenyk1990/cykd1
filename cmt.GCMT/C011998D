@@ -1,0 +1,13 @@
+ PDE 1998  1 19 18 23 59.70 -44.9700  -79.4900  10.0 5.4 5.5 OFF COAST OF SOUTHERN CHILE
+event name:     C011998D
+time shift:      5.3000
+half duration:   2.9000
+latitude:      -44.9600
+longitude:     -80.5900
+depth:          15.0000
+Mrr:      -2.310000e+24
+Mtt:       8.500000e+24
+Mpp:      -6.200000e+24
+Mrt:       4.090000e+24
+Mrp:       1.670000e+24
+Mtp:      -2.074000e+25

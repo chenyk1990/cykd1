@@ -1,0 +1,13 @@
+ PDE 2011  5 24  3 40 52.20  39.7200  143.2400  21.9 5.8 5.8 OFF EAST COAST OF HONSHU, JAPAN
+event name:     C201105240340A
+time shift:      4.3000
+half duration:   2.1000
+latitude:       39.7500
+longitude:     143.4200
+depth:          25.0000
+Mrr:       3.450000e+24
+Mtt:      -4.400000e+22
+Mpp:      -3.410000e+24
+Mrt:       3.080000e+24
+Mrp:       6.370000e+24
+Mtp:      -9.000000e+23

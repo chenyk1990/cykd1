@@ -1,0 +1,13 @@
+ PDE 1995  1  1  6 59 54.80  40.6300  143.5900  10.0 5.7 6.2 OFF EAST COAST OF HONSHU, JAPAN
+event name:     C010195A
+time shift:      6.9000
+half duration:   4.0000
+latitude:       40.7300
+longitude:     143.6500
+depth:          15.0000
+Mrr:       1.395000e+25
+Mtt:      -2.300000e+23
+Mpp:      -1.372000e+25
+Mrt:       2.106000e+25
+Mrp:       4.621000e+25
+Mtp:      -3.010000e+24

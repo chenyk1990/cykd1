@@ -1,0 +1,13 @@
+ PDE 1999 12 19  0 48 37.00  12.8700  144.5700  50.9 6.0 5.6 SOUTH OF MARIANA ISLANDS
+event name:     C121999A
+time shift:      4.5000
+half duration:   2.6000
+latitude:       12.8800
+longitude:     144.8100
+depth:          52.0000
+Mrr:       3.205000e+24
+Mtt:      -2.530000e+24
+Mpp:      -6.750000e+23
+Mrt:       8.197000e+24
+Mrp:       7.427000e+24
+Mtp:      -1.618000e+24

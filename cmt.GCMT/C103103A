@@ -1,0 +1,13 @@
+ PDE 2003 10 31  1  6 28.30  37.8100  142.6200  10.0 6.1 6.8 OFF EAST COAST OF HONSHU, JAPAN
+event name:     C103103A
+time shift:     12.6000
+half duration:   7.4000
+latitude:       37.8900
+longitude:     142.6800
+depth:          15.0000
+Mrr:       1.080000e+26
+Mtt:      -1.400000e+25
+Mpp:      -9.450000e+25
+Mrt:       1.510000e+26
+Mrp:       3.020000e+26
+Mtp:      -3.610000e+25

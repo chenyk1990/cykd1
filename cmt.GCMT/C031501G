@@ -1,0 +1,13 @@
+ PDE 2001  3 15 13  2 42.10 -32.3200  -71.4900  37.0 6.1 5.6 OFF COAST OF CENTRAL CHILE
+event name:     C031501G
+time shift:      2.6000
+half duration:   2.1000
+latitude:      -32.6100
+longitude:     -72.0400
+depth:          42.0000
+Mrr:       7.484000e+24
+Mtt:      -9.790000e+23
+Mpp:      -6.505000e+24
+Mrt:       2.455000e+24
+Mrp:       3.467000e+24
+Mtp:       2.121000e+24

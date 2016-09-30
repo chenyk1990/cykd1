@@ -1,0 +1,13 @@
+ PDE 1995  2 19  4  3 16.20  40.5600 -125.5300  10.0 6.1 6.8 OFF COAST OF NORTHERN CALIFORNIA
+event name:     C021995C
+time shift:      5.0000
+half duration:   5.2000
+latitude:       40.4300
+longitude:    -125.7400
+depth:          15.0000
+Mrr:      -5.500000e+23
+Mtt:      -8.982000e+25
+Mpp:       9.037000e+25
+Mrt:       2.232000e+25
+Mrp:       2.101000e+25
+Mtp:      -2.908000e+25

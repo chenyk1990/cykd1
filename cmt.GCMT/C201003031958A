@@ -1,0 +1,13 @@
+ PDE 2010  3  3 19 58 30.00 -33.4100  -71.8700  38.8 5.3 5.8 OFF COAST OF CENTRAL CHILE
+event name:     C201003031958A
+time shift:      0.8000
+half duration:   1.9000
+latitude:      -33.5900
+longitude:     -72.3600
+depth:          19.1000
+Mrr:       3.370000e+24
+Mtt:       2.200000e+22
+Mpp:      -3.390000e+24
+Mrt:       1.810000e+23
+Mrp:      -4.910000e+24
+Mtp:      -1.600000e+22

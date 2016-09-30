@@ -1,0 +1,13 @@
+ PDE 2002 10  3 16  8 29.60  23.3200 -108.5300  10.0 5.4 6.2 GULF OF CALIFORNIA
+event name:     C100302C
+time shift:     11.5000
+half duration:   4.0000
+latitude:       23.2200
+longitude:    -108.2700
+depth:          15.0000
+Mrr:      -3.090000e+24
+Mtt:      -5.666000e+25
+Mpp:       5.975000e+25
+Mrt:       8.520000e+24
+Mrp:       8.040000e+24
+Mtp:      -1.842000e+25

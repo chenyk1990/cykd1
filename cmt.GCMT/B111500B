@@ -1,0 +1,13 @@
+ PDE 2000 11 15 12 36 21.80 -21.6600  170.4400 200.0 5.1 0.0 SOUTHEAST OF LOYALTY ISLANDS
+event name:     B111500B
+time shift:      0.8000
+half duration:   2.5000
+latitude:      -21.6700
+longitude:     170.3600
+depth:         155.4000
+Mrr:      -1.460000e+23
+Mtt:       9.730000e+23
+Mpp:      -8.280000e+23
+Mrt:       1.800000e+24
+Mrp:       1.630000e+24
+Mtp:       8.183000e+24

@@ -1,0 +1,13 @@
+ PDE 2003 11  2  5 32 15.70 -45.1900  166.5400  10.0 5.3 6.3 OFF W. COAST OF S. ISLAND, N.Z.
+event name:     C110203C
+time shift:      7.6000
+half duration:   3.7000
+latitude:      -45.0600
+longitude:     166.6000
+depth:          15.0000
+Mrr:       3.000000e+25
+Mtt:      -4.880000e+24
+Mpp:      -2.510000e+25
+Mrt:      -5.270000e+24
+Mrp:      -3.100000e+25
+Mtp:      -1.500000e+25

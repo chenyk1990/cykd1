@@ -1,0 +1,13 @@
+ PDE 2003  6  3 23 58  2.70 -17.3600  -72.8100  33.0 5.6 5.8 OFF COAST OF PERU
+event name:     B060303H
+time shift:      4.4000
+half duration:   2.2000
+latitude:      -17.5400
+longitude:     -73.1800
+depth:          20.0000
+Mrr:       4.300000e+24
+Mtt:      -1.530000e+24
+Mpp:      -2.770000e+24
+Mrt:       2.360000e+24
+Mrp:      -6.950000e+24
+Mtp:       3.900000e+24

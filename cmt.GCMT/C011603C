@@ -1,0 +1,13 @@
+ PDE 2003  1 16  0 53 15.70  44.2800 -129.0200  10.0 5.4 6.0 OFF COAST OF OREGON
+event name:     C011603C
+time shift:      4.2000
+half duration:   3.1000
+latitude:       44.0700
+longitude:    -129.3600
+depth:          15.0000
+Mrr:      -4.460000e+24
+Mtt:      -1.640000e+25
+Mpp:       2.080000e+25
+Mrt:       9.670000e+24
+Mrp:       7.000000e+24
+Mtp:      -1.340000e+25

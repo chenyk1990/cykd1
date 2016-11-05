@@ -1,0 +1,4 @@
+
+split -b 5m ~/reg_1_gammazstore.vtk ./test
+cat test* >reg_1_gammazstore.vtk 
+diff ~/reg_1_gammazstore.vtk reg_1_gammazstore.vtk #no difference

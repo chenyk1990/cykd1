@@ -1,0 +1,9 @@
+
+split -b 5m ~/points.txt ./points
+cat pointsa* pointsb*>points.txt 
+diff ~/points.txt points.txt #no difference
+
+split -b 5m ~/points_value.txt ./points_value
+cat points_value* >points_value.txt 
+diff ~/points_value.txt points_value.txt #no difference
+
